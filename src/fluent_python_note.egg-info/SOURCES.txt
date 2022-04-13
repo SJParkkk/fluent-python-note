@@ -1,0 +1,6 @@
+setup.py
+src/fluent_python_note.egg-info/PKG-INFO
+src/fluent_python_note.egg-info/SOURCES.txt
+src/fluent_python_note.egg-info/dependency_links.txt
+src/fluent_python_note.egg-info/requires.txt
+src/fluent_python_note.egg-info/top_level.txt
